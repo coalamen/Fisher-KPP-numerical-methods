@@ -15,7 +15,7 @@ We implemented and compared two Finite Difference methods:
 
 ## 📂 Repository Structure
 * `src/`
-    * `schemes_and_plots.py`: Core implementation of the numerical schemes (Explicit and Semi-Implicit) and generation of comparative graphs.
+    * `schemes.py`: Core implementation of the numerical schemes (Explicit and Semi-Implicit) and generation of comparative graphs.
     * `anim_implicit.py`: Animation of the solution using the implicit scheme.
     * `anim_semi_implicit.py`: Animation of the solution using the **Crank-Nicolson** (semi-implicit) scheme.
 * `docs/`
